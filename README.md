@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jxred-Z
-- 👀 I’m interested in Big Data and Cybersecurity
-- 🌱 I’m currently learning Python, Big Data, and Networking basics
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning C++, Python NumPy, and Data Science 
 - 📫 Connect with me on LinkedIn! https://www.linkedin.com/in/jared-zambarrano/
 
 <!---
